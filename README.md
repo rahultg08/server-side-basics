@@ -21,3 +21,4 @@ Server Side Operations using Python
 5. Text to Speech Transcription using Watson API
 6. Watson Language Translator
 7. Web Scraping using Python: Beautiful soup
+8. Python Basics CheatSheet
